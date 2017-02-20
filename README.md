@@ -14,6 +14,10 @@ Los nombres de los archivos de imagen de captcha se almacenan en una tabla de la
 como se hacía con la base de datos de la aplicación Fotograma Perdido. La imagen debe mostrarse
 manera aleatoria de entre las que dispone la aplicación (emplear al menos 3).
 
+Esquema de la aplicación:
+
+<img src="http://antoniolanza.sytes.net/img/EsquemaPR03.jpg">
+
 DATASOURCE utilizado:
 
                 <datasource jta="true" jndi-name="java:jboss/datasources/dspr03" pool-name="dspr03" enabled="true" use-java-context="true" use-ccm="true">
@@ -25,4 +29,3 @@ DATASOURCE utilizado:
                     </security>
                 </datasource>
 
-<img src="http://antoniolanza.sytes.net/img/EsquemaPR03.jpg">
