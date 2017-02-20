@@ -25,4 +25,4 @@ DATASOURCE utilizado:
                     </security>
                 </datasource>
 
-<img src="https://aulavirtual.informaticapdv.es/pluginfile.php/9193/mod_resource/content/1/Esquema%20Aplicacion%20PR03.jpg">
+<img src="http://antoniolanza.sytes.net/img/EsquemaPR03.jpg">
