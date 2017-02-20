@@ -15,7 +15,6 @@ como se hacía con la base de datos de la aplicación Fotograma Perdido. La imag
 manera aleatoria de entre las que dispone la aplicación (emplear al menos 3).
 
 Esquema de la aplicación:
-
 <img src="http://antoniolanza.sytes.net/img/EsquemaPR03.jpg">
 
 DATASOURCE utilizado:
