@@ -24,3 +24,5 @@ DATASOURCE utilizado:
                         <password>pr03</password>
                     </security>
                 </datasource>
+
+<img src="https://aulavirtual.informaticapdv.es/pluginfile.php/9193/mod_resource/content/1/Esquema%20Aplicacion%20PR03.jpg">
